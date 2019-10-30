@@ -309,6 +309,9 @@ This is a shorter list than what I used. This is abbreviated to save you time.
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
+    
+- [ ] [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+    - A good book for studying algorithms
 
 <details>
 <summary>If you have tons of extra time:</summary>
